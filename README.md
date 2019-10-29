@@ -22,3 +22,7 @@ $ cat resolvers.txt | resolves
 1.1.1.1
 ...
 ```
+
+## Resources
+
+- [public-dns.info](https://public-dns.info/nameservers.txt) - big list of public DNS resolvers.
